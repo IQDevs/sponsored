@@ -1,2 +1,1 @@
-# sponsored
-Sponsored repositories
+# Sponsored Repositories
