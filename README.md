@@ -24,5 +24,11 @@
 | [Screen_search](https://notabug.org/alimiracle/screen_search) | Python Library used to Search for an image on the screen | [Ali Miracle](https://notabug.org/alimiracle) |
 | [cumpress](https://notabug.org/alimiracle/cumpress) | Easy-to-use program to compress and uncompress files From the command line | [Ali Miracle](https://notabug.org/alimiracle) |
 | [UPMS](https://notabug.org/alimiracle/UPMS) | This program can simulate a famous package managers. it uses apt-get in the background. | [Ali Miracle](https://notabug.org/alimiracle) |
+| [AIML Interpreter](https://github.com/karrarkazuya/aiml-java-interpreter) | AIML Interpreter written in Java minified into one single class. | [Karrar S. Honi](https://github.com/karrarkazuya) |
+| [IQDFT](https://github.com/karrarkazuya/IQDFT) | Face detection and identity hiding and swapping over videos. | [Karrar S. Honi](https://github.com/karrarkazuya) |
+| [Simple 3D engine](https://github.com/karrarkazuya/python_simple_3d_engine) | A simple python 3D engine based on tinker with ability to render .ply files. | [Karrar S. Honi](https://github.com/karrarkazuya) |
+| [SumerianApp](https://github.com/karrarkazuya/SumerianApp) | An android app for the Sumerian language as a getting started material [Google play](https://play.google.com/store/apps/details?id=karrar.sumerian.android). | [Karrar S. Honi](https://github.com/karrarkazuya) |
+| [Akonet](https://github.com/karrarkazuya/akonet_android) | An android client for the snonon systems ISP montering tool [Google play](https://play.google.com/store/apps/details?id=sumerianapps.android.akonet). | [Karrar S. Honi](https://github.com/karrarkazuya) |
+
 
 Made with ❤️ by IQDevs members
