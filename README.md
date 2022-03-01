@@ -29,7 +29,7 @@
 | [Simple 3D engine](https://github.com/karrarkazuya/python_simple_3d_engine) | A simple python 3D engine based on tinker with ability to render .ply files. | [Karrar S. Honi](https://github.com/karrarkazuya) |
 | [SumerianApp](https://github.com/karrarkazuya/SumerianApp) | An android app for the Sumerian language as a getting started material [Google play](https://play.google.com/store/apps/details?id=karrar.sumerian.android). | [Karrar S. Honi](https://github.com/karrarkazuya) |
 | [Akonet](https://github.com/karrarkazuya/akonet_android) | An android client for the snonon systems ISP montering tool [Google play](https://play.google.com/store/apps/details?id=sumerianapps.android.akonet). | [Karrar S. Honi](https://github.com/karrarkazuya) |
-| [Ahmed Maher](https://github.com/A7medMaher/Number-to-Arabic-representation)| Dart method to convert integer number to Arabic representation| [Ahmed Maher](https://github.com/A7medMaher)|
+| [Dart - Int to Arabic](https://github.com/A7medMaher/Number-to-Arabic-representation)| Dart method to convert integer number to Arabic representation| [Ahmed Maher](https://github.com/A7medMaher)|
 
 
 Made with ❤️ by IQDevs members
